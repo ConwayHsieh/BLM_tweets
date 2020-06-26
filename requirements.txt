@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy==1.4.1
+scikit-learn
+tensorflow
+plotnine
+#jupyterlab
+#jupyterthemes
+matplotlib
+qgrid
+seaborn
+plotly
+tweepy
