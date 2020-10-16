@@ -3,3 +3,4 @@ key.txt
 /data/*
 /env/*
 __pycache__/*
+.ssh/*
